@@ -1,0 +1,33 @@
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Günlük\Günlük\bin\Debug\Günlük.exe.config
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Günlük\Günlük\obj\Debug\Günlük.csprojResolveAssemblyReference.cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Günlük\Günlük\obj\Debug\Günlük.Form1.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Günlük\Günlük\obj\Debug\Günlük.Properties.Resources.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Günlük\Günlük\obj\Debug\Günlük.csproj.GenerateResource.Cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Günlük\Günlük\bin\Debug\Günlük.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Günlük\Günlük\bin\Debug\Günlük.pdb
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Günlük\Günlük\obj\Debug\Günlük.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Günlük\Günlük\obj\Debug\Günlük.pdb
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Günlük\Günlük\obj\Debug\Günlük.Form2.resources
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Günlük\Günlük\bin\Debug\Günlük.exe.config
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Günlük\Günlük\bin\Debug\Günlük.exe
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Günlük\Günlük\bin\Debug\Günlük.pdb
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Günlük\Günlük\obj\Debug\Günlük.csprojAssemblyReference.cache
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Günlük\Günlük\obj\Debug\Günlük.Form1.resources
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Günlük\Günlük\obj\Debug\Günlük.Form2.resources
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Günlük\Günlük\obj\Debug\Günlük.Properties.Resources.resources
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Günlük\Günlük\obj\Debug\Günlük.csproj.GenerateResource.cache
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Günlük\Günlük\obj\Debug\Günlük.csproj.CoreCompileInputs.cache
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Günlük\Günlük\obj\Debug\Günlük.exe
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Günlük\Günlük\obj\Debug\Günlük.pdb
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\bin\Debug\Günlük.exe.config
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\bin\Debug\Günlük.exe
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\bin\Debug\Günlük.pdb
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\obj\Debug\Günlük.csproj.AssemblyReference.cache
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\obj\Debug\Günlük.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\obj\Debug\Günlük.Form1.resources
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\obj\Debug\Günlük.Form2.resources
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\obj\Debug\Günlük.Properties.Resources.resources
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\obj\Debug\Günlük.csproj.GenerateResource.cache
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\obj\Debug\Günlük.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\obj\Debug\Günlük.exe
+C:\Users\Faruk\Desktop\görsel programlama\Günlük\Günlük\obj\Debug\Günlük.pdb
